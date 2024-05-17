@@ -1,0 +1,10 @@
+Warning: DOSSEG directive ignored in module CONVERT.ASM
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0015CH 0015DH _TEXT              CODE
+ 00160H 0020EH 000AFH _DATA              DATA
+ 00210H 0060FH 00400H STACK              STACK
+
+Program entry point at 0000:0000
+
